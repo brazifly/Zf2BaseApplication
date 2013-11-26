@@ -222,7 +222,8 @@ pip-log.txt
 
 .idea/
 
-#Jessie --------------------------------------------------------------------------------------
+###General
+composer.phar
 LICENSE.txt
 README.txt
 demos/
