@@ -1,6 +1,6 @@
 {
-    "name": "dustinmoorman/zf2baseapplication", //SET
-    "description": "ZF2BaseApplication", //SET
+    "name": "dustinmoorman/zf2baseapplication",
+    "description": "ZF2BaseApplication",
     "keywords": [
         "zf2 base application zf2baseapplication dustinmoorman"
     ],
