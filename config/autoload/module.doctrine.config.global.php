@@ -4,7 +4,7 @@ return array(
         'eventmanager' => array(
             'orm_default' => array(
                 'subscribers' => array(
-                    'ptgbase_doctrine_descriminatorlistener'
+                    'base_doctrine_descriminatorlistener'
                 )
             )
         ),
