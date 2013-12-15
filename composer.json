@@ -1,10 +1,10 @@
 {
-    "name": "ptgdallas/turtlebuilt",
-    "description": "Turtle Built",
+    "name": "dustinmoorman/zf2baseapplication", //SET
+    "description": "ZF2BaseApplication", //SET
     "keywords": [
-        "portable contractor"
+        "zf2 base application zf2baseapplication dustinmoorman"
     ],
-    "homepage": "http://turtlebuilt.com/",
+    "homepage": "http://dustinmoorman.com/",
     "require": {
         "php": ">=5.3.3",
         "zendframework/zendframework": "2.*",
