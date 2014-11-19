@@ -28,6 +28,9 @@ Don't forget to set up apache for ZF2
         Order allow,deny
         Allow from all
     </Directory>
+    ErrorLog /srv/tau.pe/logs/error.log
+    CustomLog /srv/tau.pe/logs/access.log combined
+
 </VirtualHost>
 ```
 
